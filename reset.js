@@ -1,5 +1,1 @@
-//reset
-
-const obj = {
-    a: 2   
-}
+const obj = 5;
